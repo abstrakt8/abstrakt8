@@ -1,4 +1,4 @@
-##  Hey there 👋 
+## 👋 
 
 I'm a Full-Stack Developer from 🇦🇹 Austria (Vienna) who currently works at a Big Tech company in the 🇬🇧 UK (London).
 
