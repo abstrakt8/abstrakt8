@@ -3,6 +3,4 @@ Hey 👋 I'm currently working at a Big Tech company in London.
 Some of my osu! related projects
 * [pp-calculator](https://chrome.google.com/webstore/detail/pp-calculator/eoelpnjffjkdmfhfinfbgiejnbgihpdn) 
 * [Rewind](https://github.com/abstrakt8/rewind)
-* [tapfast.gg](https://tapfast.gg)
-
-Currently taking a break from developing side projects.
+* [tapfast.gg](https://tapfast.abstrakt.sh)
