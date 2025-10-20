@@ -1,6 +1,7 @@
-Hey 👋 I'm currently working at a Big Tech company in London.
+Working at [@PlayCanvas](http://github.com/playcanvas) right now.
 
-Some of my osu! related projects
+Some projects I did for fun:
+* [f1whatif.com](https://f1whatif.com)
 * [pp-calculator](https://chrome.google.com/webstore/detail/pp-calculator/eoelpnjffjkdmfhfinfbgiejnbgihpdn) 
 * [Rewind](https://github.com/abstrakt8/rewind)
 * [tapfast.gg](https://tapfast.abstrakt.sh)
